@@ -1,0 +1,14 @@
+C:\Users\vladl\source\repos2\WebAPI\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\vladl\source\repos2\WebAPI\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\vladl\source\repos2\WebAPI\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\vladl\source\repos2\WebAPI\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\vladl\source\repos2\WebAPI\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\vladl\source\repos2\Server\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\vladl\source\repos2\Server\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\vladl\source\repos2\Server\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\vladl\source\repos2\Server\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\vladl\source\repos2\Server\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\vladl\source\repos2\Server\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\vladl\source\repos2\Server\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\vladl\source\repos2\Server\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\vladl\source\repos2\Server\Entities\obj\Debug\netstandard2.0\Entities.pdb

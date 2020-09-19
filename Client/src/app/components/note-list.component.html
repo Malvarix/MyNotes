@@ -1,0 +1,34 @@
+<div class="wrap-header">
+  <div class="wrap-add">
+    <a routerLink="/create" class="btn btn-success add">+ {{ 'HOME.ADDNOTE' | translate }}</a>
+  </div>
+  <div class="wrap-lang">
+		<nav class="container mb-4 mt-4">
+		  <div class="row">
+        <div class="col-2.5">
+          <select class="custom-select" (change)="changeLang($event.target.value)">
+            <option value="en" [selected]="lang == 'en'">{{ 'BUTTON.LANG.EN' | translate }}</option>
+            <option value="de" [selected]="lang == 'de'">{{ 'BUTTON.LANG.DE' | translate }}</option>
+            <option value="ru" [selected]="lang == 'ru'">{{ 'BUTTON.LANG.RU' | translate }}</option>
+          </select>
+        </div>
+		  </div>
+		</nav>
+	</div>
+</div>
+<div class="wrap-notes">
+  <div *ngFor="let note of notes" class="notes">
+    <div class="wrap-info">
+      <div class="wrap-descr">
+        <h5>{{ 'HOME.DESCRIPTION.TITLE' | translate }}<p>{{truncateChar(note?.description)}}</p></h5>
+      </div>
+      <div class="wrap-prior">
+        <h5>{{ 'HOME.PRIORITY.TITLE' | translate }}<p>{{ defineLang(note.priority) | translate }}</p></h5>
+      </div>
+    </div>
+    <div class="wrap-bts">
+        <a [routerLink]="['edit', note.id]" class="btn btn-sm btn-success">{{ 'HOME.EDIT' | translate }}</a>
+        <button class="btn btn-sm btn-danger" (click)="delete(note.id)">{{'HOME.DELETE' | translate }}</button>
+    </div>
+  </div>
+</div>

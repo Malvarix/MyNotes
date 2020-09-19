@@ -1,0 +1,12 @@
+<div class="form-group">
+  <label>{{ 'HOME.DESCRIPTION.TITLE_ADD' | translate }} :</label>
+  <textarea [(ngModel)]="note.description" class="form-control text-a" maxlength="250"></textarea>
+</div>
+<div class="form-group">
+  <label>{{ 'HOME.PRIORITY.TITLE' | translate }} :</label>
+  <select [(ngModel)]="note.priority" class="form-control" >
+    <option value="Low">{{ 'HOME.PRIORITY.LOW' | translate }}</option>
+    <option value="Intermediate">{{ 'HOME.PRIORITY.INTERMEDIATE' | translate }}</option>
+    <option value="High">{{ 'HOME.PRIORITY.HIGH' | translate }}</option>
+</select>
+</div>

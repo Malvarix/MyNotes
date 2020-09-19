@@ -1,0 +1,12 @@
+<div class="wrap-cr">
+  <h2>{{ 'HOME.ADDNOTE' | translate }}</h2>
+  <note-form [(note)]="note"></note-form>
+  <div class="form-group create-bts">
+      <div class="bt-save">
+        <input type="button" value="{{ 'HOME.CREATE' | translate }}" (click)="save()" class="btn btn-success" />
+      </div>
+      <div class="bt-cancel">
+        <a routerLink="/" class="btn btn-warning">{{ 'HOME.CANCEL' | translate }}</a>
+      </div>
+  </div>
+</div>

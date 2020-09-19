@@ -1,0 +1,28 @@
+{
+  "HOME":{
+    "ADDNOTE": "Add new note",
+    "EDITNOTE": "Edit note",
+    "DESCRIPTION": {
+      "TITLE":"Description",
+      "TITLE_ADD":"Description (maximum length 250 characters)"
+    },
+    "PRIORITY": {
+      "TITLE":"Priority",
+      "LOW":"Low",
+      "INTERMEDIATE":"Intermediate",
+      "HIGH":"High"
+    },
+    "EDIT": "Edit",
+    "DELETE": "Delete",
+    "CANCEL": "Cancel",
+    "SAVE": "Save",
+    "CREATE": "Create"
+  },
+  "BUTTON":{
+    "LANG":{
+      "EN": "English",
+      "DE": "Deutsch",
+      "RU": "Russian"
+    }
+  }
+}

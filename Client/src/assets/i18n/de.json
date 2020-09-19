@@ -1,0 +1,28 @@
+{
+  "HOME":{
+    "ADDNOTE": "Neue Notiz hinzufügen",
+    "EDITNOTE": "Notiz bearbeiten",
+    "DESCRIPTION": {
+      "TITLE":"Beschreibung",
+      "TITLE_ADD":"Beschreibung (maximale Länge 250 Zeichen)"
+    },
+    "PRIORITY": {
+      "TITLE":"Priorität",
+      "LOW":"Niedrig",
+      "INTERMEDIATE":"Mittlere",
+      "HIGH":"Hoch"
+    },
+    "EDIT": "Bearbeiten",
+    "DELETE": "Löschen",
+    "CANCEL": "Stornieren",
+    "SAVE": "Sparen",
+    "CREATE": "Notiz"
+  },
+  "BUTTON":{
+    "LANG":{
+      "EN": "Englisch",
+      "DE": "Deutsche",
+      "RU": "Russisch"
+    }
+  }
+}

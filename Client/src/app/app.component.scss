@@ -1,0 +1,60 @@
+.text-a{
+  resize: vertical;
+}
+.wrap-header{
+  display: inline-flex;
+  justify-content: space-between;
+  width: 100%;
+  .wrap-lang{
+    padding-right: 8%;
+  }
+  .wrap-add{
+    padding: 20px;
+    width: 40%;
+    .add{
+      text-align: center;
+      width: auto;
+    }
+  }
+}
+
+.wrap-cr, .wrap-ed{
+  .create-bts, .edit-bts{
+    display: flex;
+    flex-direction: row;
+    div{
+      margin-right: 10px;
+    }
+  }
+}
+.wrap-notes{
+  display: flex;
+  flex-wrap: wrap;
+  .notes{
+    background-color:#ddebe1;
+    border-radius: 20px;
+    height: 315px;
+    padding: 20px;
+    padding-top: 10px;
+    margin: 20px;
+    border-style: groove;
+    border-width: 3px;
+    width: 20%;
+    word-wrap: break-word;
+    text-align: center;
+    h5>p{
+      font-weight: 300;
+    }
+    .wrap-bts{
+      display: flex;
+      justify-content: space-evenly;
+      .btn-success{
+        width: 50%;
+        margin-right: 10%;
+      }
+      .btn-danger{
+        width: 50%;
+      }
+    }
+  }
+}
