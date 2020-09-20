@@ -11,8 +11,10 @@
 <ul><b>
   <li>Run server as Kestrel server</li>
 </ul></b>
-<h3>Testing</h3>
+<h3>E2E Testing</h3>
+<img src="GitPreview/Capture2.PNG" />
 <ul><b>
+  <li>Launch terminal from 'Client' folder</li>
   <li>npm install cypress</li>
   <li>./node_modules/.bin/cypress open</li>
   <li>In opened window click 'main.spec.js' and first test (with default localization) will launch automatically</li>
