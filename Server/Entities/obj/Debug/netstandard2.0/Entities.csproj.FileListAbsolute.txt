@@ -12,3 +12,12 @@ C:\Users\vladl\source\repos2\Server\Entities\obj\Debug\netstandard2.0\Entities.c
 C:\Users\vladl\source\repos2\Server\Entities\bin\Debug\netstandard2.0\Entities.pdb
 C:\Users\vladl\source\repos2\Server\Entities\obj\Debug\netstandard2.0\Entities.dll
 C:\Users\vladl\source\repos2\Server\Entities\obj\Debug\netstandard2.0\Entities.pdb
+D:\Projects\MyNotes\Server\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+D:\Projects\MyNotes\Server\Entities\bin\Debug\netstandard2.0\Entities.dll
+D:\Projects\MyNotes\Server\Entities\bin\Debug\netstandard2.0\Entities.pdb
+D:\Projects\MyNotes\Server\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+D:\Projects\MyNotes\Server\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+D:\Projects\MyNotes\Server\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+D:\Projects\MyNotes\Server\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+D:\Projects\MyNotes\Server\Entities\obj\Debug\netstandard2.0\Entities.dll
+D:\Projects\MyNotes\Server\Entities\obj\Debug\netstandard2.0\Entities.pdb

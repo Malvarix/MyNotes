@@ -3,10 +3,10 @@
   <note-form [(note)]="note"></note-form>
   <div class="form-group edit-bts">
     <div class="bt-save">
-      <input type="button" value="{{ 'HOME.SAVE' | translate }}" (click)="save()" class="btn btn-success" />
+      <input type="button" value="{{ 'HOME.SAVE' | translate }}" (click)="save()" class="btn btn-success save" />
     </div>
     <div class="bt-cancel">
-      <a routerLink="/" class="btn btn-warning">{{ 'HOME.CANCEL' | translate }}</a>
+      <a routerLink="/" class="btn btn-warning cancel">{{ 'HOME.CANCEL' | translate }}</a>
     </div>
   </div>
 </div>

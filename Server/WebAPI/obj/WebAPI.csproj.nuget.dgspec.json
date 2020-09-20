@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vladl\\source\\repos2\\Server\\WebAPI\\WebAPI.csproj": {}
+    "D:\\Projects\\MyNotes\\Server\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vladl\\source\\repos2\\Server\\Entities\\Entities.csproj": {
+    "D:\\Projects\\MyNotes\\Server\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vladl\\source\\repos2\\Server\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\Projects\\MyNotes\\Server\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\vladl\\source\\repos2\\Server\\Entities\\Entities.csproj",
+        "projectPath": "D:\\Projects\\MyNotes\\Server\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\vladl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vladl\\source\\repos2\\Server\\Entities\\obj\\",
+        "outputPath": "D:\\Projects\\MyNotes\\Server\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\vladl\\source\\repos2\\Server\\WebAPI\\WebAPI.csproj": {
+    "D:\\Projects\\MyNotes\\Server\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vladl\\source\\repos2\\Server\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "D:\\Projects\\MyNotes\\Server\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\vladl\\source\\repos2\\Server\\WebAPI\\WebAPI.csproj",
+        "projectPath": "D:\\Projects\\MyNotes\\Server\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\vladl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vladl\\source\\repos2\\Server\\WebAPI\\obj\\",
+        "outputPath": "D:\\Projects\\MyNotes\\Server\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -100,8 +100,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\vladl\\source\\repos2\\Server\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\vladl\\source\\repos2\\Server\\Entities\\Entities.csproj"
+              "D:\\Projects\\MyNotes\\Server\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Projects\\MyNotes\\Server\\Entities\\Entities.csproj"
               }
             }
           }

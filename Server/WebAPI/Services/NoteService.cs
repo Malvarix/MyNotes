@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using Entities.Interfaces;
@@ -33,11 +34,18 @@ namespace WebAPI.Services
         }
         public void DeleteNote(int id)
         {
+            Debug.WriteLine(id);
             var note = _repositoryContext.Notes.Where(m => m.Id == id).FirstOrDefault();
             if (note != null)
             {
-                //Debug.WriteLine("delnote {0},{1},{2}", note.Id, note.Description, note.Priority);
-                _repositoryContext.Notes.Remove(note);
+                try
+                {
+                    _repositoryContext.Notes.Remove(note);
+                }
+                catch(ArgumentOutOfRangeException)
+                {
+                    Debug.WriteLine("System.ArgumentOutOfRangeException");
+                }
             }
         }
     }

@@ -659,11 +659,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vladl\\source\\repos2\\Server\\Entities\\Entities.csproj",
+      "projectUniqueName": "D:\\Projects\\MyNotes\\Server\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\vladl\\source\\repos2\\Server\\Entities\\Entities.csproj",
+      "projectPath": "D:\\Projects\\MyNotes\\Server\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\vladl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vladl\\source\\repos2\\Server\\Entities\\obj\\",
+      "outputPath": "D:\\Projects\\MyNotes\\Server\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

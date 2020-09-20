@@ -27,8 +27,8 @@
       </div>
     </div>
     <div class="wrap-bts">
-        <a [routerLink]="['edit', note.id]" class="btn btn-sm btn-success">{{ 'HOME.EDIT' | translate }}</a>
-        <button class="btn btn-sm btn-danger" (click)="delete(note.id)">{{'HOME.DELETE' | translate }}</button>
+        <a [routerLink]="['edit', note.id]" class="btn btn-sm btn-success edit">{{ 'HOME.EDIT' | translate }}</a>
+        <button class="btn btn-sm btn-danger delete" (click)="delete(note.id)">{{'HOME.DELETE' | translate }}</button>
     </div>
   </div>
 </div>

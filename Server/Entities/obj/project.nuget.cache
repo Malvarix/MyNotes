@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZZu6CSOfOnOBJCGBOP+uWNFSvD+HgSmvBs91fcljB/5WdMRJupuiQfdy3X1KxXgIbS7o7MOEtwdmtrtQFwdO6A==",
+  "dgSpecHash": "tkKsl1X42jcSBTshon0oYRxJ1gCzv1Ub97hRy9l0j1ZFt7r1L9WjCKwxPR55InUGBqk1D43eSAW6ZeQJ51t9oQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vladl\\source\\repos2\\Server\\Entities\\Entities.csproj",
+  "projectFilePath": "D:\\Projects\\MyNotes\\Server\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vladl\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
